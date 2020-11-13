@@ -1,0 +1,11 @@
+
+MOT USED BY THE  ASSEMBLER
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MOV <1 BYTE OPCODE ,( 4 BYTES CONSTANT OR ID )  , ( 4 BYTES CONSTANT OR ID ) > OPCODE :  8A
+ADD <1 BYTE OPCODE , ( 4 BYTES CONSTANT OR ID )  > OPCODE 7B
+SUB <1 BYTE OPCODE , ( 4 BYTES CONSTANT OR ID ) > OPCODE 8C
+INC  <1 BYTE OPCODE , ( 4 BYTES OR  ID ) > OPCODE 9D
+CMP <1 BYTE OPCODE , ( 4 BYTES CONSTANT OR ID ) , ( 4 BYTES CONSTANT OR ID ) > OPCODE 5E
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
